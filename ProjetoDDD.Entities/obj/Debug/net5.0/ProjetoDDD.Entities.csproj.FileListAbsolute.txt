@@ -1,0 +1,12 @@
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Entities\bin\Debug\net5.0\ProjetoDDD.Entities.deps.json
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Entities\bin\Debug\net5.0\ProjetoDDD.Entities.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Entities\bin\Debug\net5.0\ref\ProjetoDDD.Entities.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Entities\bin\Debug\net5.0\ProjetoDDD.Entities.pdb
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Entities\obj\Debug\net5.0\ProjetoDDD.Entities.csproj.AssemblyReference.cache
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Entities\obj\Debug\net5.0\ProjetoDDD.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Entities\obj\Debug\net5.0\ProjetoDDD.Entities.AssemblyInfoInputs.cache
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Entities\obj\Debug\net5.0\ProjetoDDD.Entities.AssemblyInfo.cs
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Entities\obj\Debug\net5.0\ProjetoDDD.Entities.csproj.CoreCompileInputs.cache
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Entities\obj\Debug\net5.0\ProjetoDDD.Entities.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Entities\obj\Debug\net5.0\ref\ProjetoDDD.Entities.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Entities\obj\Debug\net5.0\ProjetoDDD.Entities.pdb

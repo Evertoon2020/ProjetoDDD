@@ -1,0 +1,17 @@
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\bin\Debug\net5.0\ProjetoDDD.Application.deps.json
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\bin\Debug\net5.0\ProjetoDDD.Application.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\bin\Debug\net5.0\ref\ProjetoDDD.Application.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\bin\Debug\net5.0\ProjetoDDD.Application.pdb
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\bin\Debug\net5.0\ProjetoDDD.Domain.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\bin\Debug\net5.0\ProjetoDDD.Entities.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\bin\Debug\net5.0\ProjetoDDD.Domain.pdb
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\bin\Debug\net5.0\ProjetoDDD.Entities.pdb
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.csproj.AssemblyReference.cache
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.AssemblyInfoInputs.cache
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.AssemblyInfo.cs
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.csproj.CopyComplete
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\obj\Debug\net5.0\ref\ProjetoDDD.Application.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Application\obj\Debug\net5.0\ProjetoDDD.Application.pdb

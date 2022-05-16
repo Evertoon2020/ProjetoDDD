@@ -1,0 +1,17 @@
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\bin\Debug\net5.0\ProjetoDDD.Infra.deps.json
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\bin\Debug\net5.0\ProjetoDDD.Infra.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\bin\Debug\net5.0\ref\ProjetoDDD.Infra.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\bin\Debug\net5.0\ProjetoDDD.Infra.pdb
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\bin\Debug\net5.0\ProjetoDDD.Domain.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\bin\Debug\net5.0\ProjetoDDD.Entities.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\bin\Debug\net5.0\ProjetoDDD.Domain.pdb
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\bin\Debug\net5.0\ProjetoDDD.Entities.pdb
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\obj\Debug\net5.0\ProjetoDDD.Infra.csproj.AssemblyReference.cache
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\obj\Debug\net5.0\ProjetoDDD.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\obj\Debug\net5.0\ProjetoDDD.Infra.AssemblyInfoInputs.cache
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\obj\Debug\net5.0\ProjetoDDD.Infra.AssemblyInfo.cs
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\obj\Debug\net5.0\ProjetoDDD.Infra.csproj.CoreCompileInputs.cache
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\obj\Debug\net5.0\ProjetoDDD.Infra.csproj.CopyComplete
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\obj\Debug\net5.0\ProjetoDDD.Infra.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\obj\Debug\net5.0\ref\ProjetoDDD.Infra.dll
+C:\Users\evert\Desktop\Aula Everton\AulaDDD\ProjetoDDD\ProjetoDDD.Infra\obj\Debug\net5.0\ProjetoDDD.Infra.pdb
